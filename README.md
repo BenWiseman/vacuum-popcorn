@@ -6,6 +6,7 @@ Code, data and manuscript for the letter
 B. H. Wiseman (ORCID 0009-0002-1023-9026)
 
 Preprint: https://doi.org/10.5281/zenodo.23096148
+Archive of this repository (v1, as submitted): https://doi.org/10.5281/zenodo.23099969
 
 A pocket of false vacuum that traps particles which are light inside it and heavy outside throws
 them out when it collapses. This repository holds every calculation behind that claim. Each number
