@@ -1,0 +1,14 @@
+{
+  "title": "Vacuum popcorn: code, data and manuscript",
+  "upload_type": "software",
+  "version": "v1",
+  "description": "<p>Code, data and literature notes for the letter \"Vacuum popcorn: ultra-high-energy particles from collapsing false-vacuum pockets\". A pocket of false vacuum that traps particles which are light inside it and heavy outside throws them out when it collapses. Every number in the letter is produced by a script in calc/; calc/run_all.sh reruns them, and each script's output is included as run. letter/ holds the manuscript source, its figures and a typeset preprint; data/ holds the published cosmic-ray events used, with the source of every row.</p>",
+  "creators": [
+    {"name": "Wiseman, B. H.", "affiliation": "Independent researcher, Sydney, Australia", "orcid": "0009-0002-1023-9026"}
+  ],
+  "license": "MIT",
+  "keywords": ["ultra-high-energy cosmic rays", "cosmic ray sources", "cosmological phase transitions", "false vacuum", "particle astrophysics"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.23096148", "relation": "isSupplementTo", "resource_type": "publication-preprint"}
+  ]
+}
