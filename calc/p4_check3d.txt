@@ -1,0 +1,38 @@
+k  0.1 mu 1e+02 x0 0.20: radial escaped         1510.96     | 3D escaped         1510.96     rel 5.6e-16
+k  0.1 mu 1e+02 x0 0.50: radial escaped         104.703     | 3D escaped         104.703     rel 2.2e-16
+k  0.1 mu 1e+02 x0 0.80: radial escaped         583.951     | 3D escaped         583.951     rel 2.2e-16
+k  0.1 mu 1e+02 x0 0.95: radial escaped         4060.24     | 3D escaped         4060.24     rel 2.2e-10
+k  0.1 mu 1e+04 x0 0.20: radial escaped         18073.3     | 3D escaped         18073.3     rel 0.0e+00
+k  0.1 mu 1e+04 x0 0.50: radial escaped         678680      | 3D escaped         678680      rel 0.0e+00
+k  0.1 mu 1e+04 x0 0.80: radial escaped         5.7988e+06  | 3D escaped         5.7988e+06  rel 6.2e-14
+k  0.1 mu 1e+04 x0 0.95: radial escaped         10217.8     | 3D escaped         10217.8     rel 4.7e-11
+k  0.1 mu 1e+06 x0 0.20: radial escaped         1.65641e+08 | 3D escaped         1.65641e+08 rel 2.2e-16
+k  0.1 mu 1e+06 x0 0.50: radial escaped         6.78706e+09 | 3D escaped         6.78706e+09 rel 1.1e-14
+k  0.1 mu 1e+06 x0 0.80: radial trapped_at_end  1.39177e+10 | 3D trapped_at_end  1.39177e+10 
+k  0.1 mu 1e+06 x0 0.95: radial escaped         6.1586e+07  | 3D escaped         6.1586e+07  rel 2.2e-10
+k    1 mu 1e+02 x0 0.20: radial escaped         4959.58     | 3D escaped         4959.58     rel 2.2e-16
+k    1 mu 1e+02 x0 0.50: radial escaped         133.92      | 3D escaped         133.92      rel 0.0e+00
+k    1 mu 1e+02 x0 0.80: radial escaped         265.26      | 3D escaped         265.26      rel 4.4e-16
+k    1 mu 1e+02 x0 0.95: radial escaped         140.974     | 3D escaped         140.974     rel 3.0e-11
+k    1 mu 1e+04 x0 0.20: radial escaped         10000.3     | 3D escaped         10000.3     rel 2.2e-16
+k    1 mu 1e+04 x0 0.50: radial escaped         224331      | 3D escaped         224331      rel 2.2e-16
+k    1 mu 1e+04 x0 0.80: radial escaped         2.55477e+06 | 3D escaped         2.55477e+06 rel 1.4e-15
+k    1 mu 1e+04 x0 0.95: radial escaped         1.20172e+06 | 3D escaped         1.20172e+06 rel 4.2e-11
+k    1 mu 1e+06 x0 0.20: radial escaped         5.04175e+07 | 3D escaped         5.04175e+07 rel 4.4e-16
+k    1 mu 1e+06 x0 0.50: radial escaped         2.2422e+09  | 3D escaped         2.2422e+09  rel 8.9e-16
+k    1 mu 1e+06 x0 0.80: radial escaped         2.7116e+10  | 3D escaped         2.7116e+10  rel 1.4e-11
+k    1 mu 1e+06 x0 0.95: radial escaped         1.2017e+10  | 3D escaped         1.2017e+10  rel 4.2e-11
+k   10 mu 1e+02 x0 0.20: radial escaped         5180.48     | 3D escaped         5180.48     rel 0.0e+00
+k   10 mu 1e+02 x0 0.50: radial escaped         3041.82     | 3D escaped         3041.82     rel 2.2e-16
+k   10 mu 1e+02 x0 0.80: radial escaped         182.716     | 3D escaped         182.716     rel 0.0e+00
+k   10 mu 1e+02 x0 0.95: radial escaped         199.503     | 3D escaped         199.503     rel 2.9e-15
+k   10 mu 1e+04 x0 0.20: radial escaped         149225      | 3D escaped         149225      rel 0.0e+00
+k   10 mu 1e+04 x0 0.50: radial escaped         11262       | 3D escaped         11262       rel 2.2e-16
+k   10 mu 1e+04 x0 0.80: radial escaped         149138      | 3D escaped         149138      rel 0.0e+00
+k   10 mu 1e+04 x0 0.95: radial escaped         1.86068e+06 | 3D escaped         1.86068e+06 rel 5.6e-15
+k   10 mu 1e+06 x0 0.20: radial escaped         1.82627e+06 | 3D escaped         1.82627e+06 rel 1.1e-16
+k   10 mu 1e+06 x0 0.50: radial escaped         8.22128e+07 | 3D escaped         8.22128e+07 rel 2.2e-16
+k   10 mu 1e+06 x0 0.80: radial escaped         1.4897e+09  | 3D escaped         1.4897e+09  rel 1.3e-15
+k   10 mu 1e+06 x0 0.95: radial escaped         1.86067e+10 | 3D escaped         1.86067e+10 rel 1.3e-15
+
+36 of 36 agree on the outcome; largest relative energy difference 2.2e-10

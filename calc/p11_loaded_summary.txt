@@ -1,0 +1,55 @@
+1. Below the load at which the wall stalls, the light-load results stand.
+   mu     k    | heaviest load with no stall | escaped share there / at no load | median energy there / at no load | escapees' share of the pocket's energy there | particles' share
+   1e+04  0.1  |  10 (stalls at 20) | 0.896 / 0.896 | 0.0165 / 0.0166 | 0.36 | 0.57
+   1e+04  1    |  20 (stalls at 40) | 0.915 / 0.915 | 0.0100 / 0.0100 | 0.52 | 0.94
+   1e+04  10   |  20 (stalls at 40) | 0.927 / 0.927 | 0.0011 / 0.0011 | 0.31 | 0.70
+   1e+06  0.1  |  40 (stalls at 80) | 0.560 / 0.596 | 0.0070 / 0.0078 | 0.30 | 0.79
+   1e+06  1    |  40 (stalls at 80) | 0.914 / 0.914 | 0.0100 / 0.0100 | 0.69 | 0.72
+   1e+06  10   |  80 (stalls at none up to 80) | 0.927 / 0.927 | 0.0011 / 0.0011 | 0.30 | 0.39
+   over the 21 loaded collapses that never stall: escaped share changes by at most 0.037, median energy by at most 10.4 per cent, 90th percentile by at most 15.9 per cent
+   of those, at mass ratio 1e4: at most 0.000, 0.1 per cent, 0.1 per cent; at 1e6: 0.037, 10.4 per cent, 15.9 per cent
+   the particles' share of the pocket's energy in the collapses that never stall: up to 0.94; in those that stall: 0.999 to 1.000
+
+2. Past it, the wall stops early and fewer get out.
+   mu     k    load | pocket size when the wall stops | escaped share (no load) | median energy (no load) | escapees' share of the pocket's energy
+   1e+04  0.1  20   | 7.9e-05 | 0.721 (0.896) | 0.0235 (0.0166) | 0.58
+   1e+04  0.1  40   | 8.8e-04 | 0.523 (0.896) | 0.0324 (0.0166) | 0.76
+   1e+04  0.1  80   | 5.2e-03 | 0.226 (0.896) | 0.0443 (0.0166) | 0.82
+   1e+04  1    40   | 1.1e-03 | 0.492 (0.915) | 0.0211 (0.0100) | 0.49
+   1e+04  1    80   | 3.7e-03 | 0.205 (0.915) | 0.0308 (0.0100) | 0.52
+   1e+04  10   40   | 7.9e-04 | 0.121 (0.927) | 0.0099 (0.0011) | 0.25
+   1e+04  10   80   | 9.6e-04 | 0.003 (0.927) | 0.0116 (0.0011) | 0.00
+   1e+06  0.1  80   | 4.4e-04 | 0.138 (0.596) | 0.0080 (0.0078) | 0.11
+   1e+06  1    80   | 8.2e-04 | 0.213 (0.914) | 0.0305 (0.0100) | 0.59
+   escapees' share of the pocket's energy, over every loaded collapse: largest 0.82 (mu 1e+04, k 0.1, load 80)
+
+3. How small a trapped gas loads a pocket: its rest mass as a share of the pocket's energy is load/mu^2.
+   mu 1e+04, load 10: 1e-07
+   mu 1e+04, load 40: 4e-07
+   mu 1e+06, load 10: 1e-11
+   mu 1e+06, load 40: 4e-11
+
+4. The rare escapees above m_out^2/m_in (loaded runs, where the shells are fine enough to count them).
+   mu 1e+04 k 0.1 : 0.23 per cent of escapees, carrying 41 per cent of the escapees' energy; 99th percentile 0.085
+   mu 1e+04 k 1   : 0.16 per cent of escapees, carrying 49 per cent of the escapees' energy; 99th percentile 0.063
+   mu 1e+04 k 10  : 0.07 per cent of escapees, carrying 81 per cent of the escapees' energy; 99th percentile 0.023
+   mu 1e+06 k 0.1 : 0.04 per cent of escapees, carrying 12 per cent of the escapees' energy; 99th percentile 0.095
+   mu 1e+06 k 1   : 0.01 per cent of escapees, carrying 4 per cent of the escapees' energy; 99th percentile 0.063
+   mu 1e+06 k 10  : 0.01 per cent of escapees, carrying 23 per cent of the escapees' energy; 99th percentile 0.023
+
+5. A deeper pocket (ending at 1e-12 of its size instead of 1e-6), mu 1e4, k 1: same loads, side by side.
+   load 0  : escaped 0.997 (1e-6: 0.915) | median 0.0087 (0.0100) | escapees' share 0.00 (0.00) | wall stops at 0.0e+00 (0.0e+00)
+   load 3  : escaped 0.997 (1e-6: 0.915) | median 0.0087 (0.0100) | escapees' share 0.09 (0.09) | wall stops at 0.0e+00 (0.0e+00)
+   load 10 : escaped 0.997 (1e-6: 0.915) | median 0.0087 (0.0100) | escapees' share 0.31 (0.30) | wall stops at 0.0e+00 (0.0e+00)
+   load 20 : escaped 0.997 (1e-6: 0.915) | median 0.0087 (0.0100) | escapees' share 0.55 (0.52) | wall stops at 0.0e+00 (0.0e+00)
+   load 40 : escaped 0.492 (1e-6: 0.492) | median 0.0211 (0.0211) | escapees' share 0.49 (0.49) | wall stops at 1.1e-03 (1.1e-03)
+   load 80 : escaped 0.205 (1e-6: 0.205) | median 0.0308 (0.0308) | escapees' share 0.52 (0.52) | wall stops at 3.7e-03 (3.7e-03)
+
+6. Sampling: the standard run against the finer one (mu 1e4, k 1), load by load.
+   load 10 : escaped 0.915 / 0.915 | median 0.0100 / 0.0100 | escapees' share 0.296 / 0.324 | particles' share 0.504 / 0.574 | wall stops at 0.0e+00 / 0.0e+00
+   load 20 : escaped 0.915 / 0.787 | median 0.0100 / 0.0129 | escapees' share 0.523 / 0.516 | particles' share 0.936 / 1.001 | wall stops at 0.0e+00 / 4.5e-05
+   load 40 : escaped 0.492 / 0.500 | median 0.0211 / 0.0208 | escapees' share 0.491 / 0.494 | particles' share 1.000 / 1.000 | wall stops at 1.1e-03 / 1.1e-03
+   load 80 : escaped 0.205 / 0.210 | median 0.0308 / 0.0306 | escapees' share 0.520 / 0.532 | particles' share 1.000 / 1.000 | wall stops at 3.7e-03 / 3.6e-03
+   where neither stalls (load 10): the finer run gives the particles 14 per cent more of the pocket's energy
+   the two disagree on whether the wall stalls at load 20; elsewhere the escaped share differs by at most 0.008
+   load at which the particles would take all the pocket's energy, from the heaviest load with no stall in each: standard 21, finer 17

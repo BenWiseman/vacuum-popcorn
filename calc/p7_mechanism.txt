@@ -1,0 +1,6 @@
+mu 1e+06 k 1   : escaped 0.996; two-step path (reflect, then cross the far side) 0.718 of escapers;
+   of those, inside [E1 + m_out^2/(4E1), m_out^2/(2E1)]: 1.000; their share of the escaped energy 0.142
+mu 1e+06 k 0.1 : escaped 0.709; two-step path (reflect, then cross the far side) 0.481 of escapers;
+   of those, inside [E1 + m_out^2/(4E1), m_out^2/(2E1)]: 1.000; their share of the escaped energy 0.607
+mu 1e+04 k 10  : escaped 0.999; two-step path (reflect, then cross the far side) 0.887 of escapers;
+   of those, inside [E1 + m_out^2/(4E1), m_out^2/(2E1)]: 0.904; their share of the escaped energy 0.155

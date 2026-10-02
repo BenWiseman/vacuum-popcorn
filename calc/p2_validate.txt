@@ -1,0 +1,39 @@
+mu  1.5 k 0.3 x0 0.10: tracker escaped         E 1.62501    | brute escaped         E 1.62501    rel 0.0e+00
+mu  1.5 k 0.3 x0 0.30: tracker escaped         E 1.62596    | brute escaped         E 1.62596    rel 0.0e+00
+mu  1.5 k 0.3 x0 0.50: tracker escaped         E 1.63318    | brute escaped         E 1.63318    rel 0.0e+00
+mu  1.5 k 0.3 x0 0.70: tracker escaped         E 1.6702     | brute escaped         E 1.6702     rel 0.0e+00
+mu  1.5 k 0.3 x0 0.90: tracker escaped         E 5.69726    | brute escaped         E 5.69726    rel 3.5e-10
+mu  1.5 k 0.3 x0 0.98: tracker escaped         E 17.7427    | brute escaped         E 17.7427    rel 1.1e-07
+mu  1.5 k   3 x0 0.10: tracker escaped         E 1.625      | brute escaped         E 1.625      rel 0.0e+00
+mu  1.5 k   3 x0 0.30: tracker escaped         E 1.6251     | brute escaped         E 1.6251     rel 0.0e+00
+mu  1.5 k   3 x0 0.50: tracker escaped         E 1.62594    | brute escaped         E 1.62594    rel 0.0e+00
+mu  1.5 k   3 x0 0.70: tracker escaped         E 1.63056    | brute escaped         E 1.63056    rel 0.0e+00
+mu  1.5 k   3 x0 0.90: tracker escaped         E 1.6832     | brute escaped         E 1.6832     rel 0.0e+00
+mu  1.5 k   3 x0 0.98: tracker escaped         E 20.5452    | brute escaped         E 20.5452    rel 6.5e-09
+mu    3 k 0.3 x0 0.10: tracker escaped         E 5.00047    | brute escaped         E 5.00047    rel 0.0e+00
+mu    3 k 0.3 x0 0.30: tracker escaped         E 5.0398     | brute escaped         E 5.0398     rel 0.0e+00
+mu    3 k 0.3 x0 0.50: tracker escaped         E 5.39398    | brute escaped         E 5.39398    rel 0.0e+00
+mu    3 k 0.3 x0 0.70: tracker trapped_at_end  E 10.9371    | brute trapped_at_end  E 10.9371    
+mu    3 k 0.3 x0 0.90: tracker escaped         E 23.8734    | brute escaped         E 23.8734    rel 2.8e-09
+mu    3 k 0.3 x0 0.98: tracker trapped_at_end  E 100.972    | brute trapped_at_end  E 100.972    
+mu    3 k   3 x0 0.10: tracker escaped         E 5.00005    | brute escaped         E 5.00005    rel 0.0e+00
+mu    3 k   3 x0 0.30: tracker escaped         E 5.00423    | brute escaped         E 5.00423    rel 0.0e+00
+mu    3 k   3 x0 0.50: tracker escaped         E 5.03898    | brute escaped         E 5.03898    rel 0.0e+00
+mu    3 k   3 x0 0.70: tracker escaped         E 5.25287    | brute escaped         E 5.25287    rel 0.0e+00
+mu    3 k   3 x0 0.90: tracker trapped_at_end  E 9.01972    | brute trapped_at_end  E 9.01972    
+mu    3 k   3 x0 0.98: tracker escaped         E 118.704    | brute escaped         E 118.704    rel 3.3e-07
+mu    5 k 0.3 x0 0.10: tracker escaped         E 13.0043    | brute escaped         E 13.0043    rel 0.0e+00
+mu    5 k 0.3 x0 0.30: tracker escaped         E 13.3733    | brute escaped         E 13.3733    rel 0.0e+00
+mu    5 k 0.3 x0 0.50: tracker escaped         E 21.9936    | brute escaped         E 21.9936    rel 0.0e+00
+mu    5 k 0.3 x0 0.70: tracker trapped_at_end  E 10.9371    | brute trapped_at_end  E 10.9371    
+mu    5 k 0.3 x0 0.90: tracker escaped         E 82.8022    | brute escaped         E 82.8022    rel 1.9e-08
+mu    5 k 0.3 x0 0.98: tracker trapped_at_end  E 100.972    | brute trapped_at_end  E 100.972    
+mu    5 k   3 x0 0.10: tracker escaped         E 13.0005    | brute escaped         E 13.0005    rel 0.0e+00
+mu    5 k   3 x0 0.30: tracker escaped         E 13.0382    | brute escaped         E 13.0382    rel 0.0e+00
+mu    5 k   3 x0 0.50: tracker escaped         E 13.3654    | brute escaped         E 13.3654    rel 0.0e+00
+mu    5 k   3 x0 0.70: tracker escaped         E 16.2525    | brute escaped         E 16.2525    rel 0.0e+00
+mu    5 k   3 x0 0.90: tracker trapped_at_end  E 9.01972    | brute trapped_at_end  E 9.01972    
+mu    5 k   3 x0 0.98: tracker trapped_at_end  E 329.936    | brute trapped_at_end  E 329.935    
+
+36 of 36 cases agree on the outcome; largest relative energy difference 3.3e-07
+planted failure (no catch-ups): 9 of 18 cases now disagree with the brute force

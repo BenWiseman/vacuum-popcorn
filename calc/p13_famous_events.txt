@@ -1,0 +1,20 @@
+1. Most pop protons each photon null allows (95 per cent), for 2.2 and for 0.5 photons per proton
+   Telescope Array: 2.2 to 9.6 of its 28 events above 100 EeV
+   Auger:           9.5 to 42.0 of its 35
+   AGASA:           1.8 to 7.9 of its 11
+   together:        14 to 59 of 74
+
+2. If k of Telescope Array's events above 100 EeV were pop protons: photons its search should have held, and the chance of the none it found
+   k = 1: 0.3 to 1.4 photons expected; chance of none 0.722 to 0.2380
+   k = 2: 0.7 to 2.9 photons expected; chance of none 0.521 to 0.0566
+   k = 4: 1.3 to 5.7 photons expected; chance of none 0.271 to 0.0032
+   one such proton in Telescope Array's exposure means a photon flux above 1e20 eV of 3.1e-05 to 0.00014 per km2 sr yr; Auger's limit above 40 EeV is 0.00017
+
+3. The named events as photons (probability of a photon primary, or the printed exclusion)
+   Fly's Eye 1991, 320 EeV:  0.13, not excluded; the profile lies 1.5 sigma from a photon's (astro-ph/0410739)
+   Telescope Array 2021, 244 EeV: excluded at 99.986 per cent (2311.14231)
+   AGASA 1993, 213 EeV:      0.001; none of the 10 highest-energy AGASA and Yakutsk events with muon data was a photon, at 95 per cent (astro-ph/0601449)
+   Yakutsk 1989:             0.000 (astro-ph/0601449)
+
+4. What would rule out the 244 EeV event as a pop proton: Telescope Array's photon exposure above 1e20 eV at which finding no photon has a chance below 5 per cent
+   21787 to 95863 km2 sr yr, which is 2.1 to 9.2 times today's 10440

@@ -1,0 +1,1 @@
+figure written; hot-gas medians 0.219 and 0.0251 of m_out^2/E_typ

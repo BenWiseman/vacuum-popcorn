@@ -1,0 +1,8 @@
+case 11 (k 0.3 mu 4 |p0| 0.190): tracker 65.80258
+   brute dt 5e-05: 65.72363  (rel to tracker 1.2e-03)
+   brute dt 1e-05: 65.79428  (rel to tracker 1.3e-04)
+   brute dt 2e-06: 65.80367  (rel to tracker 1.7e-05)
+case 23 (k 3 mu 4 |p0| 0.226): tracker 46.23125
+   brute dt 5e-05: 46.2186  (rel to tracker 2.7e-04)
+   brute dt 1e-05: 46.22961  (rel to tracker 3.5e-05)
+   brute dt 2e-06: 46.23121  (rel to tracker 9.7e-07)

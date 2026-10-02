@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you use this material, please cite the letter and this release.
+title: 'Vacuum popcorn: code, data and manuscript'
+authors:
+  - family-names: Wiseman
+    given-names: B. H.
+    orcid: 'https://orcid.org/0009-0002-1023-9026'
+    affiliation: Independent researcher, Sydney, Australia
+type: software
+version: 1.0
+date-released: '2026-10-02'
+license: MIT
+repository-code: 'https://github.com/BenWiseman/vacuum-popcorn'
+preferred-citation:
+  type: unpublished
+  title: 'Vacuum popcorn: ultra-high-energy particles from collapsing false-vacuum pockets'
+  authors:
+    - family-names: Wiseman
+      given-names: B. H.
+      orcid: 'https://orcid.org/0009-0002-1023-9026'
+      affiliation: Independent researcher, Sydney, Australia
+  year: 2026
+  doi: 10.5281/zenodo.23096148
+  url: 'https://doi.org/10.5281/zenodo.23096148'

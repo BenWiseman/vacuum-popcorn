@@ -1,0 +1,36 @@
+1. WHAT MASSES GIVE 1e20 eV (E_out = s * m_out^2/m_in)
+   median share s = 0.01   m_out = 1e+02    GeV: m_in = 1e-09 GeV
+   median share s = 0.01   m_out = 1e+03    GeV: m_in = 1e-07 GeV
+   median share s = 0.01   m_out = 1e+06    GeV: m_in = 0.1 GeV
+   median share s = 0.01   m_out = 1e+09    GeV: m_in = 1e+05 GeV
+   median share s = 0.001  m_out = 1e+02    GeV: m_in = 1e-10 GeV
+   median share s = 0.001  m_out = 1e+03    GeV: m_in = 1e-08 GeV
+   median share s = 0.001  m_out = 1e+06    GeV: m_in = 0.01 GeV
+   median share s = 0.001  m_out = 1e+09    GeV: m_in = 1e+04 GeV
+   and for 1e14 eV (where CHICOS searched): m_out = 100 GeV needs m_in = 0.001 GeV at s = 0.01
+   hot gas with m_out/E_typ = 1e4 and the median share 0.025 of p6: a median of 1e20 eV needs m_out = 4.0e+08 GeV (E_typ = 4e+04 GeV)
+
+   inputs: NFW scale radius 20 kpc, 0.4 GeV/cm^3 at 8.2 kpc; Auger photon limit above 40 EeV 0.000172 per km^2 sr yr (2209.05926)
+
+2. HALO: all-sky mean dark-matter column 2.16e+22 GeV/cm^2 (anticentre 1.05e+22, 90 deg 1.66e+22)
+
+3. PHOTON CAP (chi -> 2 photons): f Gamma <= 1.6e-32 per s = 5e-25 per yr;
+   so at most 7e-15 of the pockets' mass-energy may pop per Hubble time
+   (as a decaying-dark-matter lifetime: 1/(f Gamma) = 6.3e+31 s)
+
+4. ONE POP: distance at which it leaves one event in a 3000 km^2 array (f = 1, every chi seen)
+   pocket 1e+10 g: 5.6e+22 chi, one event out to 0.000119 kpc
+   pocket 1e+15 g: 5.6e+27 chi, one event out to 0.0375 kpc
+   pocket 1e+20 g: 5.6e+32 chi, one event out to 11.9 kpc
+   pocket 1e+25 g: 5.6e+37 chi, one event out to 3.75e+03 kpc
+
+5. POPS CLOSE ENOUGH TO GIVE ONE EVENT OR MORE, AT THE PHOTON CAP (all local dark matter in pockets)
+   pocket 1e+10 g: 7.3e-06 such pops per year
+   pocket 1e+15 g: 0.0023 such pops per year
+   pocket 1e+20 g: 0.73 such pops per year
+   pocket 1e+25 g: 2.3e+02 such pops per year
+
+6. ARRIVAL SPREAD OF ONE BURST FROM 1 kpc
+   m_out = 1e+03 GeV: gamma_chi = 1.0e+08, spread 5.1e-06 s
+   m_out = 1e+06 GeV: gamma_chi = 1.0e+05, spread 5.1 s
+   m_out = 1e+09 GeV: gamma_chi = 1.0e+02, spread 5.1e+06 s

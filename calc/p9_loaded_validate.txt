@@ -1,0 +1,20 @@
+1. no load: 1500 of 1500 shells have the same fate as the light-load tracker; largest escape-energy difference 9.7e-11
+   mu 1.5 k 0.3 load  0.3: 24 of 24 shells agree, 21 escape, energies to 7.9e-06; share of pocket energy given to particles 0.5040 (solver) 0.5040 (brute)
+   mu 1.5 k   3 load    1: 24 of 24 shells agree, 23 escape, energies to 6.0e-07; share of pocket energy given to particles 0.8201 (solver) 0.8201 (brute)
+   mu   3 k 0.3 load  0.3: 24 of 24 shells agree,  7 escape, energies to 9.1e-08; share of pocket energy given to particles 0.8469 (solver) 0.8469 (brute)
+   mu   3 k   3 load  0.3: 24 of 24 shells agree, 16 escape, energies to 2.3e-06; share of pocket energy given to particles 0.6838 (solver) 0.6838 (brute)
+   mu   5 k   3 load  0.1: 24 of 24 shells agree,  9 escape, energies to 1.5e-09; share of pocket energy given to particles 0.3280 (solver) 0.3280 (brute)
+   mu   5 k 0.3 load    1: 24 of 24 shells agree,  2 escape, energies to 1.2e-07; share of pocket energy given to particles 0.9442 (solver) 0.9442 (brute)
+   mu  10 k   3 load  0.3: 24 of 24 shells agree,  4 escape, energies to 2.8e-09; share of pocket energy given to particles 0.3346 (solver) 0.3346 (brute)
+   mu   3 k 0.3 load    1: 24 of 24 shells agree,  4 escape, energies to 1.5e-06; share of pocket energy given to particles 1.1417 (solver) 1.1417 (brute); wall stalls
+   mu   5 k   3 load  0.3: 24 of 24 shells agree, 10 escape, energies to 4.0e-07; share of pocket energy given to particles 1.3029 (solver) 1.3030 (brute); wall stalls
+   mu  10 k   3 load    1: 24 of 24 shells agree,  4 escape, energies to 1.9e-06; share of pocket energy given to particles 1.0046 (solver) 1.0046 (brute); wall stalls
+2. with a load: 240 of 240 shells have the same fate as the brute force; largest escape-energy difference 7.9e-06
+   largest difference in the share of pocket energy given to particles: 4.9e-05
+   100 escapes compared in all; the wall stalls in 3 of 10 cases
+3. planted failures: a solver given half the load disagrees with the brute force in 10 of 10 cases; one that never drains the wall, in 10 of 10
+   load  2: 300 of 300 shells agree, 272 escape; share of pocket energy given to particles 0.0656 (fast) 0.0656 (exact)
+   load  5: 300 of 300 shells agree, 272 escape; share of pocket energy given to particles 0.1625 (fast) 0.1625 (exact)
+   load 10: 300 of 300 shells agree, 272 escape; share of pocket energy given to particles 0.3197 (fast) 0.3197 (exact)
+4. fast solver against exact: 900 of 900 shells have the same fate; largest energy difference, any shell, 2.3e-04; largest difference in energy given 5.1e-06
+   planted failure: stopped after one pass, the fast solver's energies are off by up to 0.18 and the energy given by 0.0051

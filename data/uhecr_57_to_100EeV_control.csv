@@ -1,0 +1,132 @@
+experiment,event_id,date,energy_EeV,ra_deg,dec_deg,source
+PierreAuger,PAO040521,,86.2,199.6,-34.9,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO041204,,90.2,268.0,-60.9,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO051103,,82.5,114.7,-42.4,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO060105,,81.8,18.9,-4.7,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO060507,,84.3,297.8,19.4,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO060705,,96.5,349.9,9.3,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO070713,,92.3,326.0,-33.4,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO071111,,59.0,58.3,38.3,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO071210,,93.5,81.5,-7.4,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO071211,,78.4,315.2,-53.6,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO080110,,87.3,269.8,19.0,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO080921,,95.8,116.1,-50.7,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO081124,,79.1,28.8,-2.8,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO090221,,82.3,203.4,-32.9,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO090322,,71.7,170.2,-27.2,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO090613,,85.9,23.2,-40.0,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO090622,,82.1,276.5,-33.4,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO091002,,92.9,286.4,-64.9,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO091021,,89.6,211.2,-36.1,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO100501,,90.2,122.4,-70.8,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO100528,,83.3,89.2,-11.9,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO100815,,82.2,324.5,17.8,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO100826,,85.1,226.4,-25.7,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO101005,,78.5,12.2,-40.6,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO110416,,90.6,307.6,16.2,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO110722,,92.7,120.3,-56.1,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO110803,,80.9,245.2,-18.4,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO110809,,90.6,139.2,-36.5,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO110910,,87.5,283.7,-28.7,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO111022,,78.6,77.3,-41.2,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO120610,,87.3,26.5,-24.8,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO130127,,80.2,56.8,-67.8,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO130514,,87.7,123.5,-6.0,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO130711,,83.4,308.4,-39.4,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO130905,,91.8,154.6,-46.9,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO131024,,85.3,163.7,-74.1,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO140131,,77.8,188.6,-32.7,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO140921,,88.9,141.1,-68.4,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO141220,,92.5,324.8,-20.8,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO150627,,80.3,25.8,-41.5,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO150912,,68.3,205.0,-63.3,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO151031,,81.0,276.5,-35.7,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO160318,,96.1,69.7,-19.1,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO170323,,96.1,64.5,-39.9,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO170401,,79.8,204.1,-41.3,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO170406,,82.7,187.7,-46.0,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO170528,,95.4,79.5,-49.0,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO170728,,81.6,156.1,-33.0,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO171224,,85.1,4.1,-34.9,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO171227,,91.1,306.8,-27.3,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO180107,,82.2,34.3,-0.6,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO180316,,85.6,335.4,-37.2,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO180601,,83.0,286.1,-27.3,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO180614,,82.4,355.5,-59.5,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO180623,,90.7,274.4,-80.5,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO180930,,86.3,16.8,17.0,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO181122,,91.8,215.3,-17.1,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO190327,,79.3,53.8,32.2,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO190421,,86.0,232.2,-45.2,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO190722,,93.5,167.0,-47.8,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO191021,,89.5,137.8,-52.5,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO191203,,81.4,123.6,-75.8,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO191225,,91.6,35.3,-45.7,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO200502,,99.7,43.1,-37.8,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO200505,,80.9,296.0,-43.6,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO200520,,83.3,330.9,-55.2,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO200807,,84.4,277.0,-54.3,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO201024,,90.1,98.4,-48.7,Auger catalog 2211.16020 json sdrec
+PierreAuger,PAO201208,,89.8,102.3,26.9,Auger catalog 2211.16020 json sdrec
+TelescopeArray,,2008 Jun 10,88.8,93.5,20.82,TA 1404.5890 Table 1
+TelescopeArray,,2008 Jun 25,82.6,68.86,19.2,TA 1404.5890 Table 1
+TelescopeArray,,2008 Jul 15,57.3,308.45,53.91,TA 1404.5890 Table 1
+TelescopeArray,,2008 Aug 09,76.9,280.28,41.34,TA 1404.5890 Table 1
+TelescopeArray,,2008 Sep 24,68.8,178.03,20.29,TA 1404.5890 Table 1
+TelescopeArray,,2008 Oct 08,69.1,154.49,26.5,TA 1404.5890 Table 1
+TelescopeArray,,2008 Oct 30,79.3,152.44,45.84,TA 1404.5890 Table 1
+TelescopeArray,,2008 Nov 08,59.2,139.66,28.72,TA 1404.5890 Table 1
+TelescopeArray,,2008 Dec 30,59.7,152.3,36.45,TA 1404.5890 Table 1
+TelescopeArray,,2009 Jan 22,57.9,311.15,51.06,TA 1404.5890 Table 1
+TelescopeArray,,2009 Feb 12,64.2,22.49,80.07,TA 1404.5890 Table 1
+TelescopeArray,,2009 Mar 28,80.7,99.16,62.77,TA 1404.5890 Table 1
+TelescopeArray,,2009 Mar 29,75.0,119.62,59.19,TA 1404.5890 Table 1
+TelescopeArray,,2009 Apr 28,64.5,61.6,42.91,TA 1404.5890 Table 1
+TelescopeArray,,2009 May 19,64.2,206.74,24.93,TA 1404.5890 Table 1
+TelescopeArray,,2009 Jun 14,62.5,235.0,27.63,TA 1404.5890 Table 1
+TelescopeArray,,2009 Aug 14,59.5,305.06,44.36,TA 1404.5890 Table 1
+TelescopeArray,,2009 Aug 15,65.2,331.65,18.85,TA 1404.5890 Table 1
+TelescopeArray,,2009 Sep 19,61.7,56.47,64.36,TA 1404.5890 Table 1
+TelescopeArray,,2009 Oct 21,66.5,82.19,43.12,TA 1404.5890 Table 1
+TelescopeArray,,2009 Nov 26,64.0,120.03,46.05,TA 1404.5890 Table 1
+TelescopeArray,,2010 Jan 08,57.6,128.77,44.51,TA 1404.5890 Table 1
+TelescopeArray,,2010 Jan 21,61.2,78.79,61.43,TA 1404.5890 Table 1
+TelescopeArray,,2010 Feb 22,63.7,139.13,49.62,TA 1404.5890 Table 1
+TelescopeArray,,2010 Feb 26,65.2,25.28,43.99,TA 1404.5890 Table 1
+TelescopeArray,,2010 Jul 11,58.0,212.37,-4.78,TA 1404.5890 Table 1
+TelescopeArray,,2010 Jul 14,92.2,144.59,40.66,TA 1404.5890 Table 1
+TelescopeArray,,2010 Aug 05,67.1,115.13,-1.45,TA 1404.5890 Table 1
+TelescopeArray,,2010 Aug 29,68.9,137.13,41.5,TA 1404.5890 Table 1
+TelescopeArray,,2010 Aug 30,93.5,204.0,45.18,TA 1404.5890 Table 1
+TelescopeArray,,2010 Sep 16,60.5,129.28,29.13,TA 1404.5890 Table 1
+TelescopeArray,,2010 Sep 19,66.3,19.29,32.26,TA 1404.5890 Table 1
+TelescopeArray,,2011 Jan 05,67.4,359.91,31.47,TA 1404.5890 Table 1
+TelescopeArray,,2011 Apr 17,74.7,82.5,57.7,TA 1404.5890 Table 1
+TelescopeArray,,2011 Jul 13,65.4,87.59,81.53,TA 1404.5890 Table 1
+TelescopeArray,,2011 Jul 18,73.9,118.41,-1.37,TA 1404.5890 Table 1
+TelescopeArray,,2011 Jul 22,62.3,163.67,28.92,TA 1404.5890 Table 1
+TelescopeArray,,2011 Jul 24,61.2,197.78,7.74,TA 1404.5890 Table 1
+TelescopeArray,,2011 Jul 28,89.3,39.98,34.17,TA 1404.5890 Table 1
+TelescopeArray,,2011 Aug 21,69.2,218.81,54.11,TA 1404.5890 Table 1
+TelescopeArray,,2011 Aug 25,83.3,168.48,57.92,TA 1404.5890 Table 1
+TelescopeArray,,2011 Aug 28,63.3,153.21,19.83,TA 1404.5890 Table 1
+TelescopeArray,,2011 Sep 10,78.8,133.62,48.55,TA 1404.5890 Table 1
+TelescopeArray,,2011 Oct 03,72.6,161.74,17.39,TA 1404.5890 Table 1
+TelescopeArray,,2011 Oct 21,78.7,31.32,49.49,TA 1404.5890 Table 1
+TelescopeArray,,2011 Oct 22,57.6,253.12,46.43,TA 1404.5890 Table 1
+TelescopeArray,,2011 Nov 09,72.9,156.84,38.82,TA 1404.5890 Table 1
+TelescopeArray,,2011 Nov 17,81.6,132.97,52.63,TA 1404.5890 Table 1
+TelescopeArray,,2011 Nov 19,57.4,319.95,15.87,TA 1404.5890 Table 1
+TelescopeArray,,2012 Jan 05,91.8,226.68,24.5,TA 1404.5890 Table 1
+TelescopeArray,,2012 Mar 13,60.3,123.94,22.52,TA 1404.5890 Table 1
+TelescopeArray,,2012 May 04,76.9,134.84,59.83,TA 1404.5890 Table 1
+TelescopeArray,,2012 Aug 19,75.6,210.35,57.55,TA 1404.5890 Table 1
+TelescopeArray,,2012 Sep 07,57.8,158.6,60.26,TA 1404.5890 Table 1
+TelescopeArray,,2012 Sep 18,59.0,355.95,64.19,TA 1404.5890 Table 1
+TelescopeArray,,2012 Sep 27,57.4,159.75,35.56,TA 1404.5890 Table 1
+TelescopeArray,,2012 Nov 01,60.5,47.71,-4.66,TA 1404.5890 Table 1
+TelescopeArray,,2013 Jan 03,68.2,66.42,39.0,TA 1404.5890 Table 1
+TelescopeArray,,2013 Mar 14,98.5,36.26,17.87,TA 1404.5890 Table 1
+TelescopeArray,,2013 Apr 08,66.8,218.49,62.54,TA 1404.5890 Table 1
+TelescopeArray,,2013 Apr 22,62.5,165.28,52.35,TA 1404.5890 Table 1
+TelescopeArray,,2013 Apr 28,68.5,47.08,31.32,TA 1404.5890 Table 1

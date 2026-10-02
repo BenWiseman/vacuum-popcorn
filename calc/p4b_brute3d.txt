@@ -1,0 +1,26 @@
+k 0.3 mu 2 |p0| 0.886 x0 0.45: 3D escaped         2.11988    | brute escaped         2.11988    rel 2.4e-06
+k 0.3 mu 2 |p0| 2.233 x0 0.54: 3D escaped         2.8311     | brute escaped         2.8311     rel 1.7e-06
+k 0.3 mu 2 |p0| 0.101 x0 0.85: 3D escaped         5.33685    | brute escaped         5.33691    rel 1.2e-05
+k 0.3 mu 2 |p0| 0.546 x0 0.97: 3D escaped         11.7589    | brute escaped         11.754     rel 4.2e-04
+k 0.3 mu 2 |p0| 0.276 x0 0.78: 3D escaped         3.42154    | brute escaped         3.42147    rel 1.9e-05
+k 0.3 mu 2 |p0| 0.346 x0 0.48: 3D escaped         2.31819    | brute escaped         2.31818    rel 1.7e-06
+k 0.3 mu 4 |p0| 0.832 x0 0.68: 3D escaped         17.5102    | brute escaped         17.5097    rel 2.6e-05
+k 0.3 mu 4 |p0| 0.368 x0 0.89: 3D escaped         22.844     | brute escaped         22.844     rel 2.9e-06
+k 0.3 mu 4 |p0| 0.104 x0 0.70: 3D trapped_at_end  9.59609    | brute trapped_at_end  9.59595    
+k 0.3 mu 4 |p0| 0.229 x0 0.79: 3D escaped         9.96172    | brute escaped         9.9618     rel 8.0e-06
+k 0.3 mu 4 |p0| 0.190 x0 0.92: 3D escaped         65.8026    | brute escaped         65.7236    rel 1.2e-03
+k 0.3 mu 4 |p0| 0.963 x0 0.50: 3D escaped         5.58928    | brute escaped         5.58924    rel 7.5e-06
+k   3 mu 2 |p0| 1.196 x0 0.42: 3D escaped         2.15905    | brute escaped         2.15904    rel 1.5e-06
+k   3 mu 2 |p0| 1.742 x0 0.81: 3D escaped         2.90036    | brute escaped         2.90031    rel 1.8e-05
+k   3 mu 2 |p0| 0.885 x0 0.45: 3D escaped         2.19596    | brute escaped         2.19595    rel 6.5e-06
+k   3 mu 2 |p0| 0.122 x0 0.96: 3D escaped         16.3807    | brute escaped         16.3802    rel 2.6e-05
+k   3 mu 2 |p0| 3.062 x0 0.83: 3D escaped         3.69108    | brute escaped         3.69105    rel 5.9e-06
+k   3 mu 2 |p0| 2.663 x0 0.53: 3D escaped         3.19145    | brute escaped         3.19144    rel 1.7e-06
+k   3 mu 4 |p0| 2.683 x0 0.86: 3D escaped         4.38011    | brute escaped         4.3801     rel 2.9e-06
+k   3 mu 4 |p0| 0.203 x0 0.65: 3D escaped         9.39682    | brute escaped         9.39679    rel 3.9e-06
+k   3 mu 4 |p0| 0.699 x0 0.72: 3D escaped         13.2679    | brute escaped         13.2674    rel 4.3e-05
+k   3 mu 4 |p0| 1.572 x0 0.90: 3D escaped         7.58197    | brute escaped         7.58148    rel 6.5e-05
+k   3 mu 4 |p0| 0.226 x0 0.96: 3D escaped         46.2313    | brute escaped         46.2186    rel 2.7e-04
+k   3 mu 4 |p0| 0.161 x0 0.61: 3D escaped         10.0643    | brute escaped         10.0642    rel 2.1e-06
+
+24 of 24 agree on the outcome; largest relative energy difference 1.2e-03

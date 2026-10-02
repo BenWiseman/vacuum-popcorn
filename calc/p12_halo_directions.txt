@@ -1,0 +1,55 @@
+57 events at or above 100 EeV with published coordinates: AGASA 11, PierreAuger 35, TelescopeArray 11
+halo column relative to the anticentre: 90 degrees from the centre 1.57, 30 degrees 4.19, 10 degrees 7.97
+
+VALIDATION (fake skies with the real number of events per experiment)
+   no halo events: fitted share is 0 in 52 per cent of skies; the 95 per cent upper limit lies below the truth (0) in none, and has median 0.42
+   planted share 0.2: median fitted 0.21; upper limit below the truth in 3.0 per cent of skies (5 expected)
+   planted share 0.5: median fitted 0.51; upper limit below the truth in 5.0 per cent of skies (5 expected)
+   every event from the halo: median fitted share 1.00, and the test statistic beats the largest of the 400 no-halo skies in 72 per cent
+
+DATA
+   all 57 events: fitted halo share 0.37, 95 per cent upper limit 0.85, that is 48 events; test statistic 1.86 (no-halo skies exceed it 8 per cent of the time)
+   PierreAuger    35 events: fitted share 0.00, upper limit 0.43 (15 events); mean column over the sky's mean 0.96
+   TelescopeArray 11 events: fitted share 1.00, upper limit 1.00 (11 events); mean column over the sky's mean 1.48
+   AGASA          11 events: fitted share 0.91, upper limit 1.00 (11 events); mean column over the sky's mean 1.14
+   the named events with coordinates, column relative to their experiment's sky average:
+      TelescopeArray 2021-05-27 244 EeV: 1.90, 46 degrees from the Galactic centre
+      AGASA 1993-12-03 213 EeV: 0.79, 119 degrees from the Galactic centre
+      AGASA 2001-05-10 246 EeV: 0.90, 102 degrees from the Galactic centre
+   Auger events within 30 degrees of the Galactic centre: 2 of 35; expected from exposure alone 3.6, if all came from the halo 8.8
+
+BY EXPERIMENT, against fake skies drawn from that experiment's exposure alone
+   PierreAuger    mean column over sky average 0.96; no-halo skies give 1.00 +- 0.11 and reach the observed value 62.4 per cent of the time; all-halo skies give 1.41 +- 0.16 and fall to it 0.0 per cent of the time
+   TelescopeArray mean column over sky average 1.48; no-halo skies give 1.00 +- 0.13 and reach the observed value 0.2 per cent of the time; all-halo skies give 1.17 +- 0.17 and fall to it 95.7 per cent of the time
+   AGASA          mean column over sky average 1.14; no-halo skies give 1.00 +- 0.12 and reach the observed value 11.9 per cent of the time; all-halo skies give 1.16 +- 0.15 and fall to it 50.1 per cent of the time
+   Telescope Array events (date, EeV, degrees from the Galactic centre, column over sky average):
+      2008-06-29   101   33 2.51
+      2011-02-28   136   36 2.34
+      2009-07-13   154   38 2.23
+      2021-05-27   244   46 1.90
+      2008-07-20   120   65 1.38
+      2010-09-21   162   77 1.18
+      2011-01-08   125   77 1.17
+      2012-04-11   101   80 1.13
+      2008-08-10   122  102 0.90
+      2008-08-01   139  116 0.80
+      2013-03-21   107  132 0.73
+
+CONTROL: the events between 57 and 100 EeV, same test
+   PierreAuger     69 events: mean column over sky average 1.02; no-halo skies give 1.00 +- 0.08 and reach it 37.0 per cent of the time; fitted share 0.06, upper limit 0.43
+   TelescopeArray  62 events: mean column over sky average 0.84; no-halo skies give 1.00 +- 0.05 and reach it 100.0 per cent of the time; fitted share 0.00, upper limit 0.14
+
+ENERGY: Telescope Array events above 57 EeV, column against energy
+   72 events of 2008 to 2013: Spearman correlation of energy with halo column 0.07; shuffled energies reach it 27.03 per cent of the time
+   at or above  57 EeV: 72 events, mean column over sky average 0.93, within 50 degrees of the Galactic centre 3
+   at or above  70 EeV: 31 events, mean column over sky average 1.00, within 50 degrees of the Galactic centre 3
+   at or above  80 EeV: 20 events, mean column over sky average 1.12, within 50 degrees of the Galactic centre 3
+   at or above 100 EeV: 10 events, mean column over sky average 1.44, within 50 degrees of the Galactic centre 3
+   at or above 120 EeV:  7 events, mean column over sky average 1.43, within 50 degrees of the Galactic centre 2
+   share of Telescope Array's exposure within 50 degrees of the Galactic centre: 0.060
+
+WHAT WOULD SETTLE THE LEAN: Telescope Array's events above 100 EeV with no published direction
+   the complete 2008 to 2013 sample: 10 events, 3 within 50 degrees of the Galactic centre; mean column over sky average 1.44, which no-halo skies reach 0.58 per cent of the time
+   chance that a Telescope Array event lies within 50 degrees of the centre: 0.060 if isotropic, 0.136 if every event followed the halo; chance of 3 or more in 10 if isotropic 0.0191
+   of the 17 further events: 1.0 expected within 50 degrees if isotropic, 2.3 if every event followed the halo, 5.1 at the rate of the 2008 to 2013 sample
+   chance of 4 or more among 17 if isotropic: 0.017; of 1 or fewer at the published rate: 0.019

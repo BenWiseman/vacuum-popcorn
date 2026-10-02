@@ -1,0 +1,28 @@
+1. The quoted case: parent at rest, x = 1e-3, pure power law (the paper prints 2 to 3)
+   p = 1.5: photons per nucleon 2.69 (q = 2), 2.70 (q = 0, no cut-off); analytic (2/3)(eps_pi/eps_N)/p = 2.70
+   p = 1.9: photons per nucleon 2.13 (q = 2), 2.13 (q = 0, no cut-off); analytic (2/3)(eps_pi/eps_N)/p = 2.13
+
+2. A moving parent: photons per nucleon at the same energy E = z E_X
+   z      | p=1.5 q=1  p=1.5 q=2  p=1.5 q=3 | p=1.9 q=1  p=1.9 q=2  p=1.9 q=3
+   0.001  | 2.69       2.68       2.67      | 2.13       2.12       2.12     
+   0.01   | 2.59       2.52       2.46      | 2.09       2.05       2.02     
+   0.03   | 2.43       2.29       2.19      | 2.00       1.92       1.85     
+   0.1    | 2.02       1.81       1.66      | 1.75       1.59       1.47     
+   0.2    | 1.62       1.39       1.23      | 1.46       1.26       1.13     
+   0.3    | 1.31       1.09       0.94      | 1.21       1.02       0.89     
+   0.5    | 0.83       0.66       0.56      | 0.79       0.64       0.54     
+   0.7    | 0.45       0.35       0.29      | 0.44       0.34       0.28     
+
+3. What a search counts: photons above an energy for each nucleon above the same energy
+   z      | p=1.5 q=2  p=1.9 q=2  p=1.9 q=3
+   0.01   | 2.23       1.92       1.88     
+   0.03   | 1.95       1.73       1.65     
+   0.1    | 1.48       1.36       1.26     
+   0.2    | 1.12       1.05       0.95     
+   0.3    | 0.87       0.83       0.74     
+   0.5    | 0.53       0.51       0.45     
+
+   for a proton carrying a tenth to a half of the escapee's energy: 0.4 to 1.5 photons each; for a hundredth to a thirtieth: 1.7 to 2.2
+   with eps_N at 0.10 or 0.14 and eps_pi at 0.70 or 0.76 every figure moves by a factor of 0.82 to 1.25
+
+   check: at z = 0.3 the at-rest and moving-parent ratios differ by 20 per cent; at z = 1e-3 by 0.2 per cent

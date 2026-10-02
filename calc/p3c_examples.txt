@@ -1,0 +1,12 @@
+m_out = 1e+07 GeV, m_in = 1e+01 GeV (ratio 1e+06), m_out^2/m_in = 1.0e+22 eV
+   k = 0.1  escaped 0.95 | median 1.2e+20 eV, top tenth above 3.2e+20 eV, top hundredth above 8.9e+20 eV | share above 1e20 eV 0.536
+   k = 1    escaped 1.00 | median 8.5e+19 eV, top tenth above 5.2e+20 eV, top hundredth above 6.2e+20 eV | share above 1e20 eV 0.465
+   k = 10   escaped 1.00 | median 9.8e+18 eV, top tenth above 8.8e+19 eV, top hundredth above 2.2e+20 eV | share above 1e20 eV 0.080
+m_out = 1e+03 GeV, m_in = 1e-08 GeV (ratio 1e+11), m_out^2/m_in = 1.0e+23 eV
+   k = 0.1  escaped 0.51 | median 2.1e+12 eV, top tenth above 1.4e+20 eV, top hundredth above 6.8e+20 eV | share above 1e20 eV 0.128
+   k = 1    escaped 0.24 | median 3.3e+19 eV, top tenth above 2.5e+20 eV, top hundredth above 9.1e+20 eV | share above 1e20 eV 0.248
+   k = 10   escaped 0.60 | median 2.7e+19 eV, top tenth above 1.2e+20 eV, top hundredth above 7.4e+20 eV | share above 1e20 eV 0.135
+m_out = 1e+03 GeV, m_in = 1e-07 GeV (ratio 1e+10), m_out^2/m_in = 1.0e+22 eV
+   k = 0.1  escaped 0.57 | median 9.4e+15 eV, top tenth above 2.8e+19 eV, top hundredth above 1.9e+20 eV | share above 1e20 eV 0.024
+   k = 1    escaped 0.32 | median 6.9e+18 eV, top tenth above 4.5e+19 eV, top hundredth above 1.5e+20 eV | share above 1e20 eV 0.031
+   k = 10   escaped 0.72 | median 4.1e+18 eV, top tenth above 2.3e+19 eV, top hundredth above 7.9e+19 eV | share above 1e20 eV 0.004

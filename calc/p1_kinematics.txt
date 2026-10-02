@@ -1,0 +1,19 @@
+1. CLOSED FORMS
+   at rest, reflected: E/m = 2737, closed form g^2 (1 + b^2) = 2737
+   massless head-on, reflected: E_after/E = 5473.999817, closed form g^2 (1 + b)^2 = 5473.999817
+   product rule E_before E_after = g^2 (m_in^2 + pt^2) + u^2: holds on 2000 random reflections
+
+2. THE SWEEP LIMIT: a particle at rest, wall Lorentz factor rising (m_out/m_in = 1e6)
+   g = 1e+07: transmit, E/m_in = 501256289339, limit (m_out^2 + m_in^2)/(2 m_in) = 500000000000
+   g = 1e+09: transmit, E/m_in = 500000125001, limit (m_out^2 + m_in^2)/(2 m_in) = 500000000000
+   g = 1e+12: transmit, E/m_in = 500000000001, limit (m_out^2 + m_in^2)/(2 m_in) = 500000000000
+   g = 1e+15: transmit, E/m_in = 500000000001, limit (m_out^2 + m_in^2)/(2 m_in) = 500000000000
+
+3. 3000 random cases written for the 100-digit check (types: miss 703, reflect 752, transmit 1545)
+
+4. AGAINST 100-DIGIT ARITHMETIC (p1_reference.py)
+   cases 3000; type mismatches 0; borderline 0
+   largest relative error, double vs 100 digits: E_after 5.39e-12, pn_after 8.42e-10, light-cone A_after 5.39e-12
+   PASS
+
+5. AT gamma = 1e14 the wall's speed differs from light by 1 - beta = 5e-29

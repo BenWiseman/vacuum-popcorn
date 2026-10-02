@@ -1,0 +1,8 @@
+pocket mass | pops/yr with >=1 event | with >=2 | with >=3 | events/yr in all | share of events in groups
+  1e+15 g   |       3.25            |  0.00413 |  0.00104 |       3.26      | 0.004
+  1e+18 g   |          3            |    0.122 |   0.0328 |       3.26      | 0.115
+  1e+20 g   |       1.49            |    0.522 |    0.266 |       3.26      | 0.704
+  1e+22 g   |      0.109            |   0.0817 |   0.0672 |       3.26      | 0.992
+  1e+24 g   |    0.00159            |  0.00159 |  0.00159 |       3.26      | 1.000
+
+(events/yr in all is independent of pocket mass at fixed f Gamma: the photon cap fixes the mean flux)
